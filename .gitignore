@@ -32,3 +32,30 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/DSofBull/[Ll]ibrary/
+/DSofBull/[Tt]emp/
+/DSofBull/[Oo]bj/
+/DSofBull/[Bb]uild/
+/DSofBull/[Bb]uilds/
+/DSofBull/Assets/AssetStoreTools*
+/.vs/
+ExportedObj/
+.consulo/
+*.csproj/
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+# Unity3D generated meta files
+*.pidb.meta
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+# Builds
+*.apk
+*.unitypackage
